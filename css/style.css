@@ -1,5 +1,5 @@
 body {
-  background: #f9f7fe;
+  background: #d0baeb;
   font-family: sans-serif;
 }
 h1 {
@@ -20,14 +20,19 @@ select {
   padding: 10px;
   border-radius: 4px;
   font-size: 18px;
+  background: rgba(240, 240, 240, 0.88);
+}
+a {
+  text-decoration: none;
+  color: rgb(109, 27, 130);
 }
 
 .container {
   margin: 60px auto;
   border: 1px;
-  border-radius: 15px;
+  border-radius: 10px;
   padding: 20px;
-  background: rgba(255, 255, 255, 0.952);
+  background: rgba(255, 255, 255, 0.5);
   box-shadow: 5px 5px 5px rgb(0, 0, 0, 0.4);
   max-width: 600px;
 }
